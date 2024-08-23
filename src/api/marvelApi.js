@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const HASH = '8ea8ffefd83f43f55c1a550b23c7eb07'
-const API_KEY = '15d1ee73cffbc3da9f63fe961151e778';  
+const HASH = 'a096152334f6244a6cdd5edb57a2dd7c'
+const API_KEY = 'b0f4687287ea9697af0ef1a1eeb9f6fe';  
 const TS = '1'
 export const fetchCharacters = async () => {
     try {
